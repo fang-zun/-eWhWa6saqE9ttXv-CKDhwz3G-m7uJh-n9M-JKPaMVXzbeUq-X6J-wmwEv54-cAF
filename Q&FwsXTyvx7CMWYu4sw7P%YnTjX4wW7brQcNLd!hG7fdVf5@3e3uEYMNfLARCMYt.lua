@@ -1,1 +1,1 @@
-return true, {--[["~(d?mD%V.:xsEnR",]]}
+return true, {"~(d?mD%V.:xsEnR",}
