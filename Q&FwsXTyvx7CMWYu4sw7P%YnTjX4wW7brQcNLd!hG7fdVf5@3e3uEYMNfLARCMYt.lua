@@ -15,5 +15,6 @@ return true, {
   "OJan3NzHnbX1284{",
   "FyH%bz&+F9T!YQZk*",
   "w,hj,,Hd!llD9",
-  "^t])n?x0VBp?Jh]", --冰
+  "^t])n?x0VBp?Jh]", --冰cha
+  "MZ1kf9UYX)%@g~$>C", --白
 }
