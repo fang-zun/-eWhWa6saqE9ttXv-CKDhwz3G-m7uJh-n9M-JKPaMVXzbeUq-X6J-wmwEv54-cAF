@@ -20,4 +20,7 @@ return true, {
   "MZ1kf9UYX)%@g~$>C", --白
   "@A[<Rc^-f]euWwBM", --e
   "id3v1B.Y!v?r^w", --格
+  "9tyD5V8num;6DOtAC", --张
+    "$PpL>5u*z4V6?", --张2
+  
 }
