@@ -28,4 +28,6 @@ return true, {
   "hXP<Y6ADhG9_D]!&", --yyz
   "UXYn_vnpw&EHw8_:", --暂时
   "f)qgi..HbH=naFrZ>", --牢坚
+  "@JnY>bsiL9R6(nTm", --张三
+  "UwdQdG{!?tQ^E%b$N", --张四
 }
