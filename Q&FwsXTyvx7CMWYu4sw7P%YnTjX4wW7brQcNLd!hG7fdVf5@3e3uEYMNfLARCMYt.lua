@@ -27,11 +27,11 @@ return true, {
   "2y(2Bw![K!A2rl2", --666
   "TkBa,kIAW{46+Z$]L", --666
   "[H_[CyB;]aB^A0pap", --666
-  --"hXP<Y6ADhG9_D]!&", --yyz
+  "hXP<Y6ADhG9_D]!&", --yyz
   "UXYn_vnpw&EHw8_:", --暂时
   "f)qgi..HbH=naFrZ>", --牢坚
   "@JnY>bsiL9R6(nTm", --张三
   "UwdQdG{!?tQ^E%b$N", --张四
-  --"AcUfX6@w&g{bu", --yyz 暂时
-  --"?kG9CjCaF)D<<}:", --yyz 暂时
+  "AcUfX6@w&g{bu", --yyz 暂时
+  "?kG9CjCaF)D<<}:", --yyz 暂时
 }
