@@ -17,6 +17,7 @@ return true, {
   "FyH%bz&+F9T!YQZk*",
   "w,hj,,Hd!llD9",
   "_P8($y6xV-wv@;",
+  "A:{Es~A8)E-%pU",
   "^t])n?x0VBp?Jh]", --冰cha
   "MZ1kf9UYX)%@g~$>C", --白
   "@A[<Rc^-f]euWwBM", --e
