@@ -33,8 +33,5 @@ return true, {
   "f)qgi..HbH=naFrZ>", --牢坚
   "@JnY>bsiL9R6(nTm", --张三
   "UwdQdG{!?tQ^E%b$N", --张四
-  "AcUfX6@w&g{bu", --yyz 暂时
-  "?kG9CjCaF)D<<}:", --yyz 暂时
-  "F$E-xWIKlyWpS3ItV", -- yyz 暂时2
   "]?hjgjo8>XMnjE", -- yyz 暂时 1232
 }
