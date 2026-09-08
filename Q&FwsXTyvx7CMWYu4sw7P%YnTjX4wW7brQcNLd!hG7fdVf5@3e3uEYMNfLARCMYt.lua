@@ -30,10 +30,8 @@ return true, {
   "TkBa,kIAW{46+Z$]L", --666
   "[H_[CyB;]aB^A0pap", --666
   "hXP<Y6ADhG9_D]!&", --yyz
-  "UXYn_vnpw&EHw8_:", --暂时
+  "eo{}6}tuRSApe5yk", --yyz小号
   "f)qgi..HbH=naFrZ>", --牢坚
   "@JnY>bsiL9R6(nTm", --张三
   "UwdQdG{!?tQ^E%b$N", --张四
-  "]?hjgjo8>XMnjE", -- yyz 暂时 1232
-   "<qCA)h:j-0m[d8", -- yyz 暂时 YM9
 }
