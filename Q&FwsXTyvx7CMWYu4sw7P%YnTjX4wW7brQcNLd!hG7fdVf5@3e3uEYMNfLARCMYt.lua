@@ -28,7 +28,6 @@ return true, {
   "vroK7J:g[)l>^;71<", --格2
   "9tyD5V8num;6DOtAC", --张
   "$PpL>5u*z4V6?", --张2
-  "FyH%bz&+F9T!YQZk*", --逐梦
   "2y(2Bw![K!A2rl2", --666
   "TkBa,kIAW{46+Z$]L", --666
   "[H_[CyB;]aB^A0pap", --666
@@ -36,5 +35,4 @@ return true, {
   "@JnY>bsiL9R6(nTm", --张三
   "UwdQdG{!?tQ^E%b$N", --张四
   "@~73H6TlD~<)*P{D", --牢梦
-  "I]0UiGF:I%_pst{", --yyz 暂时 ook
 }
