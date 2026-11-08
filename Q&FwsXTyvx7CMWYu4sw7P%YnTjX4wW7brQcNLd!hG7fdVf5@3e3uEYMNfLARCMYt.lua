@@ -36,4 +36,5 @@ return true, {
   "@JnY>bsiL9R6(nTm", --张三
   "UwdQdG{!?tQ^E%b$N", --张四
   "@~73H6TlD~<)*P{D", --牢梦
+  "1(AdLrA(d4!+cw)", --mj小号暂时
 }
